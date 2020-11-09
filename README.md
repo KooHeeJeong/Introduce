@@ -18,7 +18,7 @@
 ## ADT CAPS - BlueCode
 `아이에스티엔, 2020.03 ~ 2020.10`
 
-기업용 물류시스템 Android App 개발 & 유지보수
+ADT CAPS 기업용 물류시스템 Android App 개발 & 유지보수
 
 ### 개발
 - Android App 개발
