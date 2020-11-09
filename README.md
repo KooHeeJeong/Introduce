@@ -30,7 +30,7 @@ ADT CAPS 기업용 물류시스템 Android App 개발 & 유지보수
 ## YG-1 - Ordering System
 `아이에스티엔, 2019.10 ~ 2020.02`
 
-Europe Ordering System / SAP 연동 주문시스템 전체적으로 개발하였습니다. 
+Europe Ordering System / Angular (Front end Web) 개발하였습니다. 
 
 ### 개발
 - Angular 개발
